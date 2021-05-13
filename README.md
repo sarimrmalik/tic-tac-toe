@@ -1,4 +1,4 @@
-# tic-tac-toe
+# Tic tac toe
 This is my first attempt at working with React. 
 
 I built a simple tic-tac-toe game using the following [tutorial](https://reactjs.org/tutorial/tutorial.html#taking-turns). 
